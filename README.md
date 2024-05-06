@@ -13,7 +13,9 @@ Ein einfacher Studyflix.de Downloader in python
 
 ## Benutzung
 
-`main.py https://studyflix.de/mathematik/polynom-1951`
+```bash
+main.py https://studyflix.de/mathematik/polynom-1951
+```
 (Kann irgendein Studyflix video sein)
 
 Das Video wird anschließend in mp4 umgewandelt und in den aktuellen Ordner heruntergeladen
